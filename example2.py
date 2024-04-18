@@ -12,7 +12,7 @@ from random import randint
 """ Note that we do not need to use random.randint(5,10) to use this
 function now!
 """
-x = randint(5,10)
+x = randint(5, 10)
 print(x)
 
 """
